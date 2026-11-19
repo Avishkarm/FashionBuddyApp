@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37827.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FashionBuddyApp", "FashionBuddyApp.pyproj", "{6DD4DB0A-DCEA-4B07-9670-8EBCFEB8F459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DD4DB0A-DCEA-4B07-9670-8EBCFEB8F459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD4DB0A-DCEA-4B07-9670-8EBCFEB8F459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3912B3DB-721F-4A58-A634-5C08D30E2779}
+	EndGlobalSection
+EndGlobal
